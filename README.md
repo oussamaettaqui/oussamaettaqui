@@ -102,8 +102,8 @@ Django Ecosystem
 ## 📬 Contact & Professional Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oussamaettaqui)
-<<![![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react)](https://yourportfolio.com)!>>
-[![Portfolio] Coming soon
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react)](https://yourportfolio.com)!-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 
