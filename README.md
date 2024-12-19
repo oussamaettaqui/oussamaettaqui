@@ -15,13 +15,8 @@ A passionate software engineer from 1337 School, specializing in full-stack deve
 
 ## 💻 Technical Skills
 
-### 🔧 Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css&theme=dark)
-
-### 📚 Frameworks & Libraries
 ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,django,laravel,express,bootstrap,tailwind&theme=dark)
-
-### 🗃️ Databases & Tools
 ![Tools](https://skillicons.dev/icons?i=mongodb,mysql,git,docker,linux&theme=dark)
 
 <!--## 🏗️ Projects Structure
@@ -41,20 +36,6 @@ A passionate software engineer from 1337 School, specializing in full-stack deve
 └── 🚀 DevOps/
     └── Infrastructure & Deployment Scripts
 ```-->
-
-## 🛠️ Development Environment
-
-### Primary Setup
-- **OS:** Linux (ubuntu)
-- **Editor:** VSCode
-- **Terminal:** bash
-- **Version Control:** Git with GitHub
-
-### 🔒 Coding Principles
-- Clean Code
-- SOLID Principles
-- Test-Driven Development
-- Continuous Integration/Continuous Deployment (CI/CD)
 
 ## 📊 GitHub Analytics
 
