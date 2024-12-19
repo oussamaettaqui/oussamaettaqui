@@ -3,9 +3,6 @@
 ## 📋 Table of Contents
 - [About Me](#-about-me)
 - [Technical Skills](#-technical-skills)
-- [Projects](#-projects)
-- [Development Environment](#-development-environment)
-- [Learning & Growth](#-learning--growth)
 - [Contact](#-contact)
 
 ## 🚀 About Me
