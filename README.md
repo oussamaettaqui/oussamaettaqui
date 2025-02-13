@@ -3,7 +3,6 @@
 ## 📋 Table of Contents
 - [About Me](#-about-me)
 - [Technical Skills](#-technical-skills)
-- [Contact](#-contact)
 
 ## 🚀 About Me
 
@@ -76,13 +75,6 @@ Django Ecosystem
 ### 🏆 Certifications
 - In Progress: Docker & Kubernetes Certification
 - Exploring: AWS Cloud Practitioner -->
-
-## 📬 Contact & Professional Links
-
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react)](https://yourportfolio.com)!-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oussamaettaqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge)](https://github.com/oussamaettaqui)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ossamaettaqui@gmail.com)
 
 
 ---
